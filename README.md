@@ -5,15 +5,31 @@
 - :computer: I like to write code
 - :dancers: I’m looking to collaborate on an interesting project with a friendly team and an experienced mentor
 -  :pencil2: I want lern how to write clean and beatiful code 
+
+## **Pinned repositiries** 
+
+<a href="https://github.com/Kamil-Kalandarov/react-burger">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=react-burger&theme=aura" />
+</a>
+<a href="https://github.com/Kamil-Kalandarov/react-burger">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=mesto-project&theme=aura" />
+</a>
+<a href="https://github.com/Kamil-Kalandarov/react-burger">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=russian-travel&theme=aura" />
+</a>
   
 ## :door: **How to reach me:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil-Kalandarov&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+## :chart_with_upwards_trend: :door: **GitHub stats:**
+
+<a href="https://github.com/Kamil-Kalandarov/react-burger">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=Kamil-Kalandarov&show_icons=true&&count_private=true&theme=aura" />
+</a>
 
 :hammer:
 :iphone:
 :mailbox:
-:chart_with_upwards_trend:
+
 
 
 
