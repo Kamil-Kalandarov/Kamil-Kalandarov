@@ -1,5 +1,4 @@
-**<h1 align='center'>Hi there 👋 i'm Kamil<h1>**
-**<h6 align='center'>I'm front-end developer</h6>**
+**<h1 align='center'>Hi there 👋 i'm Kamil and I'm front-end developer<h1>**
 
 ## :door: **How to reach me:**
 
