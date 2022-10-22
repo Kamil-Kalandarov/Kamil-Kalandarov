@@ -9,21 +9,24 @@
 ## **Pinned repositiries** 
 
 <a href="https://github.com/Kamil-Kalandarov/react-burger">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=react-burger&theme=aura" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=react-burger&theme=aura" alt="react-berger repo"/>
 </a>
 <a href="https://github.com/Kamil-Kalandarov/react-burger">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=mesto-project&theme=aura" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=mesto-project&theme=aura" alt="mesto-project repo"/>
 </a>
 <a href="https://github.com/Kamil-Kalandarov/react-burger">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=russian-travel&theme=aura" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=russian-travel&theme=aura" alt="russian-travel repo"/>
 </a>
   
 ## :door: **How to reach me:**
 
-## :chart_with_upwards_trend: :door: **GitHub stats:**
+## :chart_with_upwards_trend: **GitHub stats:**
 
 <a href="https://github.com/Kamil-Kalandarov/react-burger">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=Kamil-Kalandarov&show_icons=true&&count_private=true&theme=aura" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil-Kalandarov&theme=aura" alt="most used languages"/>
+</a>
+<a href="https://github.com/Kamil-Kalandarov/react-burger">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api?username=Kamil-Kalandarov&show_icons=true&&count_private=true&theme=aura" alt="Kamil's GitHub stats"/>
 </a>
 
 :hammer:
