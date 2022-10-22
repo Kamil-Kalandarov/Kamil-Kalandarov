@@ -1,7 +1,7 @@
- **<h1 align='center'>Hi there 👋 i'm Kamil<h1>**
- ## **I'm front-end developer**
+**<h1 align='center'>Hi there 👋 i'm Kamil<h1>**
+**<h2 align='center'>I'm front-end developer</h2>**
 
-<h2 align='center'>:door: **How to reach me:**</h2>
+## :door: **How to reach me:**
 
 [<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Kamil_Kalandarov) 
 [<img src="https://img.shields.io/badge/VK-696969?style=for-the-badge&logo=VK&logoColor=#F7DF1E">](https://vk.com/default1313) 
