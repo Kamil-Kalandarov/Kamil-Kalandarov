@@ -1,9 +1,29 @@
-### Hi there 👋
+ **<h1 align='center'>Hi there 👋 i'm Kamil<h1>**
+ ## **I'm front-end developer**
 
-<!--
-**Kamil-Kalandarov/Kamil-Kalandarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## **About me**
+- :computer: I like to write code
+- :dancers: I’m looking to collaborate on an interesting project with a friendly team and an experienced mentor
+-  :pencil2: I want lern how to write clean and beatiful code 
+  
+## :door: **How to reach me:**
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil-Kalandarov&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+:hammer:
+:iphone:
+:mailbox:
+:chart_with_upwards_trend:
+
+
+
+
+
+
+
+
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
