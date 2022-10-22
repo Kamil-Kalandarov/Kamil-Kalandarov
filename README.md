@@ -1,5 +1,5 @@
 **<h1 align='center'>Hi there 👋 i'm Kamil<h1>**
-**<h2 align='center'>I'm front-end developer</h2>**
+**<h6 align='center'>I'm front-end developer</h6>**
 
 ## :door: **How to reach me:**
 
