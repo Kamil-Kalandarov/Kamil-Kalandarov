@@ -21,6 +21,11 @@
 <a href="https://github.com/Kamil-Kalandarov/russian-travel">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=russian-travel&theme=aura" alt="russian-travel repo"/>
 </a>
+</a>
+<a href="https://github.com/Kamil-Kalandarov/biycicles">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Kamil-Kalandarov&repo=biycicles&theme=aura" alt="biycicles repo"/>
+</a>
+  
   
 ## :chart_with_upwards_trend: **GitHub stats:**
 
