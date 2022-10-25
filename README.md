@@ -8,7 +8,7 @@
  ## **About me**
 - :computer: I like to write code
 - :dancers: I’m looking to collaborate on an interesting project with a friendly team and an experienced mentor
-- :pencil2: I want lern how to write clean and beatiful code 
+- :pencil2: I want to lern how to write clean and good code 
 
 ## :pushpin: **Pinned repositiries** 
 
